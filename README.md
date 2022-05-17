@@ -2,7 +2,7 @@
 
 This is a repo that adds `bash` to ncbi/sra-tools.
 
-The original repository can be found at [https://github.com/statgen/ruth](https://github.com/ncbi/sra-tools)
+The original repository can be found at https://github.com/ncbi/sra-tools
 
 ## Installation
 
